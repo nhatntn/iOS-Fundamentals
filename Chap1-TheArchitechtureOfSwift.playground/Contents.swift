@@ -17,3 +17,7 @@ extension Int {
 }
 
 1.sayHello()
+
+//Three flavors of Object Type
+
+
